@@ -1,0 +1,6 @@
+e:\_PRJ\WTB\WTB---projekt-zaliczeniowy\CarsTU\bin\x64\Debug\Cars.dll
+e:\_PRJ\WTB\WTB---projekt-zaliczeniowy\CarsTU\bin\x64\Debug\Cars.pdb
+e:\_PRJ\WTB\WTB---projekt-zaliczeniowy\CarsTU\obj\x64\Debug\Cars.csproj.AssemblyReference.cache
+e:\_PRJ\WTB\WTB---projekt-zaliczeniowy\CarsTU\obj\x64\Debug\Cars.csproj.CoreCompileInputs.cache
+e:\_PRJ\WTB\WTB---projekt-zaliczeniowy\CarsTU\obj\x64\Debug\Cars.dll
+e:\_PRJ\WTB\WTB---projekt-zaliczeniowy\CarsTU\obj\x64\Debug\Cars.pdb
